@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webpage-checker", "webpage-checker\webpage-checker.csproj", "{2A1C4C65-0CAC-4CA2-ABB7-B4C25EB1938A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1C4C65-0CAC-4CA2-ABB7-B4C25EB1938A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1C4C65-0CAC-4CA2-ABB7-B4C25EB1938A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1C4C65-0CAC-4CA2-ABB7-B4C25EB1938A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1C4C65-0CAC-4CA2-ABB7-B4C25EB1938A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32FFF66-70C6-46D7-A647-EB14B8A82A4A}
+	EndGlobalSection
+EndGlobal
